@@ -2,12 +2,15 @@ Image CLassification:
 
 This repo contain thre categories. 
 
-#![alt text](https://github.com/Milanbhadja/classification/blob/main/static/120cm%20Bed%20with%20underbed%20drawer.jpg)
-<p align="center">
-  <img src="[your_relative_path_here](https://github.com/Milanbhadja/classification/blob/main/static/120cm%20Bed%20with%20underbed%20drawer.jpg)" width="350" title="hover text">
-  <img src="[your_relative_path_here_number_2_large_name](https://github.com/Milanbhadja/classification/blob/main/static/120cm%20Bed%20with%20underbed%20drawer.jpg)" width="350" alt="accessibility text">
-</p>
-
+<B> Setting up the Environment</B>
+```
+python3 -m pip install -U virtualenv # install the virtualenv
+virtualenv -p python3 dev_env # creating an environment
+source dev_env/bin/activate # activate environment
+git clone https://github.com/entiretydotai/Image-Classification-and-Deployment #clone the repo
+cd Image-Classification-and-Deployment
+pip install -r requirements.txt # install the requirements
+```
 
 Deep learning model: For classification, transfer learning techniques has been used as it has preweights. I also some of the layer on top of that. 
 Once it has been trained, I have save model so we can directly use on other dataset. 
