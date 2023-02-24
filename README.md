@@ -63,4 +63,6 @@ I have Heroku free version which allows only 500 mb to upload your model. Unfort
 
 ![Heroku image ](https://github.com/Milanbhadja/classification/blob/main/static/Heroku%20Error.png)
 
-I will try to implement CI/CD pipeline with different yaml file. I will upload it soon.
+I will try to implement CI/CD pipeline with different yaml file. I will upload it soon. 
+
+I already upadated YAML with Docker-Image.YAML which runs perfectly. Hopefully you enjoyed the learning.  
