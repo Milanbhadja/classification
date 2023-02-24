@@ -33,11 +33,11 @@ In gui of webapp, user can upload image as a output they got to know that image 
 
 UPLOAD IMAGES
 
-upload image
+[!upload image](https://github.com/Milanbhadja/classification/blob/main/static/upload_image.png)
 
 Prediction
 
-predicted result
+[!predicted result](https://github.com/Milanbhadja/classification/blob/main/static/prediction%20image.png)
 
 Craete new virtual enviornment to install all dependencies.
 
@@ -61,6 +61,6 @@ Once it has been contenerised, create CI/CD pipeline for github action.
 
 I have Heroku free version which allows only 500 mb to upload your model. Unfortunately, our model size is more than 500MB so we couldn't attach CI/CD pipeline.
 
-Heroku image
+![Heroku image ](https://github.com/Milanbhadja/classification/blob/main/static/Heroku%20Error.png)
 
 I will try to implement CI/CD pipeline with different yaml file. I will upload it soon.
