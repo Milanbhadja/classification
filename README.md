@@ -29,6 +29,14 @@ def hello_world():
 
 In gui of webapp, user can upload image as a output they got to know that image is from which category. 
 
+<B> UPLOAD IMAGES</B>
+
+![upload image](https://github.com/Milanbhadja/classification/blob/main/static/upload_image.png)
+
+<b> Prediction</b>
+
+![predicted result](https://github.com/Milanbhadja/classification/blob/main/static/prediction%20image.png)
+
 Craete new virtual enviornment to install all dependencies. 
 
 After that all app has been dockerised with docker. 
