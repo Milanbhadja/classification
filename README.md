@@ -20,14 +20,15 @@ Flask is great for developers working on small projects that need a quick way to
 
 let's take an example of flask:
 
+```
+
 from flask import Flask ''' app = Flask(name)
 
 @app.route("/") def hello_world(): return "
 
 Hello, World!
 
-"
-'''
+```
 
 In gui of webapp, user can upload image as a output they got to know that image is from which category.
 
@@ -41,11 +42,13 @@ Prediction
 
 Craete new virtual enviornment to install all dependencies.
 
-python -m venv ./venv
+```
+python -m venv ./venv 
 dir ./venv
 cd venv\Scripts
 activate
 After that install all libraries: pip install -r requirement.txt
+```
 
 After that all app has been dockerised with docker.
 
