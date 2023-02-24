@@ -2,7 +2,11 @@ Image CLassification:
 
 This repo contain thre categories. 
 
-![alt text](https://github.com/Milanbhadja/classification/blob/main/static/120cm%20Bed%20with%20underbed%20drawer.jpg)
+#![alt text](https://github.com/Milanbhadja/classification/blob/main/static/120cm%20Bed%20with%20underbed%20drawer.jpg)
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/Milanbhadja/classification/blob/main/static/120cm%20Bed%20with%20underbed%20drawer.jpg)" width="350" title="hover text">
+  <img src="[your_relative_path_here_number_2_large_name](https://github.com/Milanbhadja/classification/blob/main/static/120cm%20Bed%20with%20underbed%20drawer.jpg)" width="350" alt="accessibility text">
+</p>
 
 
 Deep learning model: For classification, transfer learning techniques has been used as it has preweights. I also some of the layer on top of that. 
