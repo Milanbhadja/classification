@@ -33,11 +33,11 @@ In gui of webapp, user can upload image as a output they got to know that image 
 
 UPLOAD IMAGES
 
-[!upload image](https://github.com/Milanbhadja/classification/blob/main/static/upload_image.png)
+![upload image](https://github.com/Milanbhadja/classification/blob/main/static/upload_image.png)
 
 Prediction
 
-[!predicted result](https://github.com/Milanbhadja/classification/blob/main/static/prediction%20image.png)
+![predicted result](https://github.com/Milanbhadja/classification/blob/main/static/prediction%20image.png)
 
 Craete new virtual enviornment to install all dependencies.
 
