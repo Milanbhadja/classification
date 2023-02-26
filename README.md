@@ -7,7 +7,7 @@ Setting up the Environment
 python3 -m pip install -U virtualenv # install the virtualenv </br>
 virtualenv -p python3 dev_env # creating an environment </br>
 source dev_env/bin/activate # activate environment </br>
-git clone https://github.com/entiretydotai/Image-Classification-and-Deployment #clone the repo</br>
+git clone https://github.com/Milanbhadja/classification/ #clone the repo</br>
 cd Image-Classification-and-Deployment </br>
 pip install -r requirements.txt # install the requirements </br>
 
