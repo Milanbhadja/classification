@@ -4,12 +4,13 @@ This repo contain thre categories.
 
 Setting up the Environment
 
-python3 -m pip install -U virtualenv # install the virtualenv
-virtualenv -p python3 dev_env # creating an environment
-source dev_env/bin/activate # activate environment
-git clone https://github.com/entiretydotai/Image-Classification-and-Deployment #clone the repo
-cd Image-Classification-and-Deployment
-pip install -r requirements.txt # install the requirements
+python3 -m pip install -U virtualenv # install the virtualenv </br>
+virtualenv -p python3 dev_env # creating an environment </br>
+source dev_env/bin/activate # activate environment </br>
+git clone https://github.com/entiretydotai/Image-Classification-and-Deployment #clone the repo</br>
+cd Image-Classification-and-Deployment </br>
+pip install -r requirements.txt # install the requirements </br>
+
 Deep learning model: For classification, transfer learning techniques has been used as it has preweights. I also some of the layer on top of that. Once it has been trained, I have save model so we can directly use on other dataset.
 
 Now we have to make API so we can predict label according to that. we will use flask for creating web app.
